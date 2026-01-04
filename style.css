@@ -1,0 +1,20 @@
+body{
+  background:#020617;
+  color:white;
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.quiz{
+  background:#111827;
+  padding:20px;
+  border-radius:12px;
+  width:260px;
+}
+button{
+  width:100%;
+  margin-top:8px;
+  padding:8px;
+}
